@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @HippoStalker
-- 👀 I’m interested in ... coding and development
-- 🌱 I’m currently learning ... coding and computer engineering 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... via email or my discord bryfn#4173
+- 👋 Hi, I’m @Brysterious
+- 👀 I’m a PC Enthusiast 
+- 🌱 I’m currently learning Computer Science
+- 📫 How to reach me ... via email or my discord Brysterious#5847
 
 <!---
-HippoStalker/HippoStalker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Brysterious/Brysterious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
