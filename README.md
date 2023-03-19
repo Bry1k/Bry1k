@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brysterious
 - 👀 I’m a PC Enthusiast 
-- 🌱 I’m currently learning Computer Science
+- 🌱 I like messing around with operating systems such as windows and tweaks.
 - 📫 You can reach me via my discord, Brysterious#5847
 
 <!---
