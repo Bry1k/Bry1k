@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Brysterious
-- 👀 I’m a PC Enthusiast 
+# 👋 Hi, I’m Brysterious
+- 👀 I’m a PC Enthusiast and learning to program!
 - 🌱 I like messing around with operating systems such as windows and tweaks.
 - 📫 You can reach me via my discord, Brysterious#5847
 
