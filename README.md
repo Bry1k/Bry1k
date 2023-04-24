@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Brysterious
-- 👀 I’m a PC Enthusiast and learning to program!
-- 🌱 Currently learning Python then C#. Afterwards, most likely transistioning to C++.
+- 👀 I mess around with computers (Reason Being it has broke 6 times)
 - 📫 You can reach me via my discord, Brysterious#5847
 
 <!---
