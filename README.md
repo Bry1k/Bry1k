@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Brysterious
 - 👀 I mess around with computers (Reason Being it has broke 6 times)
 - 🎮 I also do some Gaming 
-- 📫 You can reach me via my discord, Brysterious#5847
+- 📫 You can reach me via my discord, Bry1k
 
 <!---
 Brysterious/Brysterious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
