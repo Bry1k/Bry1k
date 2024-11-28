@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Brysterious
+# 👋 Hi, I’m Bry
 - 👀 I mess around with computers (Reason Being it has broke 6 times)
 - 🎮 I also do some Gaming 
 - 📫 You can reach me via my discord, Bry1k
