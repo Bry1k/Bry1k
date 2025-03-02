@@ -1,7 +1,11 @@
 # 👋 Hi, I’m Bry1k
 
+Programming Languages thate I've Learned
 
-<!---
-Brysterious/Brysterious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="https://www.python.org/">
+  <img src="https://github.com/Bry1k/Bry1k/blob/main/image/Image.png" width="40" height="40" />
+</a>
+
+
+
