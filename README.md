@@ -1,6 +1,7 @@
-# 👋 Hi, I’m Bry1k
+I create things, sometimes useful, sometimes not
 
 **Programming Languages that I've Learned**
+
 
 
 <a href="https://www.python.org/">
