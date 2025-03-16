@@ -30,7 +30,7 @@
 
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode,powershell,windows" height="50" alt="skills"  />
+  <img src="https://skillicons.dev/icons?i=powershell,html,css,js,python,github,vscode,windows" height="50" alt="skills"  />
 
 </div>
 
