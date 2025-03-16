@@ -37,6 +37,9 @@
 ###
 
 <div align="center">
+  <h2>Stats</h2>
+</div>
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Bry1k&locale=en&mode=daily&theme=catppuccin-mocha&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
